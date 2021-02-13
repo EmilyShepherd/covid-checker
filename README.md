@@ -8,7 +8,7 @@ rates in your local area.
 
 ![Screenshot showing usage](./screenshot)
 
-*The above screenshot shows the data the script pulls in for the given
+The above screenshot shows the data the script pulls in for the given
 region: The name of the area, as defined on the Coronavirus API, the
 current rolling number of cases per 100k of the population, and then the
 total rolling number of cases with the change from last week as both an
