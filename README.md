@@ -6,6 +6,17 @@ This is a small script designed to act as a custom Waybar module which
 scrapes the UK Government's coronavirus data API to find the infection
 rates in your local area.
 
+[./screenshot.png](Screenshot showing usage)
+
+*The above screenshot shows the data the script pulls in for the given
+region: The name of the area, as defined on the Coronavirus API, the
+current rolling number of cases per 100k of the population, and then the
+total rolling number of cases with the change from last week as both an
+absolute and a percentage.
+
+This is the same information that is presented on the [Official
+Interactive Map][2].
+
 ## Usage
 
 ### Calling from the command line
@@ -74,3 +85,4 @@ down, the classname for it will be set to `DOWN`, and it will be set to
 
 
 [1]: https://findthatpostcode.uk/
+[2]: https://coronavirus.data.gov.uk/details/interactive-map
