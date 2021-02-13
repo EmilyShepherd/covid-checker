@@ -6,7 +6,7 @@ This is a small script designed to act as a custom Waybar module which
 scrapes the UK Government's coronavirus data API to find the infection
 rates in your local area.
 
-[./screenshot.png](Screenshot showing usage)
+![Screenshot showing usage](./screenshot)
 
 *The above screenshot shows the data the script pulls in for the given
 region: The name of the area, as defined on the Coronavirus API, the
